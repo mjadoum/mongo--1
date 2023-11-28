@@ -44,4 +44,3 @@ services:
 networks:
   mongo1_network:
     driver: bridge
-
